@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4232b32bc12aef7",
+        "id": "fcc97343978f99c9",
         "type": "tabs",
         "children": [
           {
-            "id": "7d9f23119fb8ae7d",
+            "id": "c04aef0a629d0d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c767c0d94032ac60",
+            "id": "0dc374c301b686e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,55 +32,19 @@
             }
           },
           {
-            "id": "f275dc3112512f6d",
+            "id": "1e9d3ab262429097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_The Subject and Enjoyment/Conjunctive Synthesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d259cb060efbce8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Desiring-Production/Syntheses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cfdefde4c95e761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Desiring-Production/Connective Synthesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a31f0dde20794942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_The Subject and Enjoyment/Summary to this Point.md",
+                "file": "1_Desiring-Production/Disjunctive Synthesis (Disjunctions).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_The Subject and Enjoyment/Summary to this Point.md",
+                "file": "1_Desiring-Production/Disjunctive Synthesis (Disjunctions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_The Subject and Enjoyment/Summary to this Point.md",
+                "file": "1_Desiring-Production/Disjunctive Synthesis (Disjunctions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_The Subject and Enjoyment/Summary to this Point.md"
+                "file": "1_Desiring-Production/Disjunctive Synthesis (Disjunctions).md"
               }
             }
           }
@@ -211,10 +175,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a31f0dde20794942",
+  "active": "1e9d3ab262429097",
   "lastOpenFiles": [
-    "etc/process of production.md",
+    "1_Desiring-Production/Disjunctive Inscription.md",
+    "1_Desiring-Production/Disjunctive Synthesis (Disjunctions).md",
+    "1_Desiring-Production/Syntheses.md",
+    "3_The Subject and Enjoyment/Conjunctive Synthesis.md",
     "3_The Subject and Enjoyment/Summary to this Point.md",
+    "etc/process of production.md",
     "3_The Subject and Enjoyment/Attractions and Repulsions.md",
     "2_The Body Without Organs/Paranoiac Machine.md",
     "2_The Body Without Organs/Numen.md",
@@ -224,8 +192,6 @@
     "1_Desiring-Production/The Schizophrenic.md",
     "1_Desiring-Production/Process.md",
     "1_Desiring-Production/Machine.md",
-    "1_Desiring-Production/Disjunctive Synthesis.md",
-    "1_Desiring-Production/Disjunctive Inscription.md",
     "1_Desiring-Production/Desiring Machines.md",
     "1_Desiring-Production/Connective Synthesis.md",
     "0_People/Robert Gie.md",
@@ -237,8 +203,6 @@
     "0_People/Alfred Jarry.md",
     "0_People/Works/The Masque of the Red Death.md",
     "0_People/Works/The Bride Stripper Bare by Her Bachelors, Even.md",
-    "0_People/Works/Supermale.md",
-    "0_People/Works/In the Penal Colony.md",
     "-1_img/Robert_Gie_2.png",
     "-1_img/Robert_Gie_1.png",
     "-1_img/Robert_Gie_3.png",
