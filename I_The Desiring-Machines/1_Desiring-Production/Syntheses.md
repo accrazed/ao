@@ -1,4 +1,3 @@
 [[Connective Synthesis]]
-[[Disjunctive Synthesis (Disjunctions)]]
-
+[[Disjunctive Synthesis]]
 [[Conjunctive Synthesis]]

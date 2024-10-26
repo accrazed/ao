@@ -1,6 +1,6 @@
 > What the schizophrenic experiences, both as an individual and as a member of the human species, is not at all any one specific aspect of nature, but ***nature as a [[process of production]]***.
 
-There are several important meanings to understand for the word [[process]] here. All of them all the time :thumbs_up:
+There are several important meanings to understand for the word [[Process]] here. All of them all the time :thumbs_up:
 ## 1. Process, Recording, and Consumption
 [[Process]] incorporates [[recording]] and [[consumption]] within production itself, making the [[process of production]] include all.
 

@@ -1,0 +1,8 @@
+The Miraculating machine comes from the element of anti-production that is present and coupled within the [[Desiring Machines]]. This machine uses the rules of [[Disjunctive Synthesis]] to allow the [[Body Without Organs]] to fall back on all of desiring production, coordinating it and making it seem as though all of desiring-production emanates from the [[Body Without Organs]], through the use of the recording process ([[Disjunctive Synthesis]]) provided by the [[Miraculating Machine]].
+
+Desiring Production, which points in all directions, desires and produces all things, is restricted to solely flowing through the recording processes that are constituted by the [[Miraculating machine]], and that which is produced no longer is produced in and of itself, but instead seems to be quasi-caused by the [[Body Without Organs]] present within the [[Miraculating Machine]]. This is because the process of recording coordinates desiring production and appropriates all surplus production created by it. 
+
+>In a word, the socius as a full body forms a surface where all production is recorded, whereupon the entire process appears to emanate from this recording surface. Society constructs its own delirium by recording the process of production; but it is not a conscious delirium, or rather it is a true consciousness of a false movement, a true perception of an apparent objective movement, a true perception of the movement that is produced on the recording surface.
+>>AO10::1
+
+[[Miraculating Machine]]s succeed [[Paranoiac Machine]]s (not replacing them, just kinda laying on top of the PMs)

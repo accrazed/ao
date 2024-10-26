@@ -17,7 +17,7 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": false,
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "\\\\wsl.localhost\\Ubuntu\\home\\accrazed\\workspace\\accrazed.github.io\\AO",
+  "exportPath": "C:\\\\Users\\Accra\\OneDrive\\Documents\\ao",
   "filesToExport": [
     [
       "all"
