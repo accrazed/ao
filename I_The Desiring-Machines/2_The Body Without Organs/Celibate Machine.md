@@ -1,5 +1,5 @@
 > Attraction and Repulsion persist in opposition, which can only be reconciled with a new machine that functions as a "return of the repressed": The [[Celibate Machine]].
-> [[Attractions and Repulsions]]
+> [[Attractions and Oppositions]]
 
 The [[Celibate Machine]] produces [[intensive quantities]]
 By the [[Celibate Machine]]'s means, intensive quantities are produced
@@ -8,9 +8,9 @@ By the [[Celibate Machine]]'s means, intensive quantities are produced
 > >AO18::2
 > >[[The Schizophrenic#Celibate Machine]]
 ## Where do the intensive quantities come from?
-They're at the very least produced by [[Celibate Machine]]s, but they come from the two preceding forces, [[Attractions and Repulsions]], and from the opposition of these two forces
+They're at the very least produced by [[Celibate Machine]]s, but they come from the two preceding forces, [[Attractions and Oppositions]], and from the opposition of these two forces
 
-When put together, [[Attractions and Repulsions]] DO NOT return to zero intensity. zero intensity designates the [[Body Without Organs]]. Their opposition is [greater than::positive to] zero intensity, and fluctuate in relative amplitudes of [[Attractions and Repulsions]]. ex.
+When put together, [[Attractions and Oppositions]] DO NOT return to zero intensity. zero intensity designates the [[Body Without Organs]]. Their opposition is [greater than::positive to] zero intensity, and fluctuate in relative amplitudes of [[Attractions and Oppositions]]. ex.
 ## Examples
 - [[Marcel Duchamp]]'s painting _La mariée mise_ à _nu par ses célibataires_, _même_ ([[The Bride Stripper Bare by Her Bachelors, Even]])
 - The Machine in [[Kafka]]'s [[In the Penal Colony]]

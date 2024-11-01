@@ -1,0 +1,1 @@
+likely in reference to the [[Miraculating Machine]]'s laws of [[Disjunctive Synthesis]]

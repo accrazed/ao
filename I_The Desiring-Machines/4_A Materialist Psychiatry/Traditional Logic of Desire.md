@@ -20,3 +20,5 @@ Similarly to Kant, the psychoanalytic conception of the subconscious as a "theat
 > In a word, when the theoretician reduces desiring-production to a production of fantasy, he is content to exploit to the fullest the idealist principle that defines desire as a lack, rather than a process of production. 
 > [[Clément Rosset]] puts it very well: every time the emphasis is put on a lack that desire supposedly suffers from as a way of defining its object, "the world acquires as its double some other sort of world, in accordance with the following line of argument: there is an object that desire feels the lack of; hence the world does not contain each and every object that exists; there is at least one object missing, the one that desire feels the lack of; hence there exists some other place that contains the kye to desire (missing in this world)."
 > >AO26::0
+
+==> [[Lack]]
