@@ -1,3 +1,4 @@
+#machine
 Fucking everywhere. Follow the [[process of production]]
 
 Every [[Machine]] has flows and interruptions, and its effects are produced. It's important to understand some details when the word [[Process]] is used.

@@ -14,4 +14,4 @@ When [[technical machines]] are big, you get good ol'fashioned fascist politics.
 When [[desiring machines]] are big -> revolution, usurption of the "group fantasy" through deinstitutionalization, disinvestment etc. This however when invested enough just turns back into the technical machine's [[régime]]
 > Desiring machines [...] continually break down as they run, and in fact run only when they are not functioning properly: the product is always an offshoot of production, implanting itself upon it like a graft, and at the same time the parts of the machine are the fuel that makes it run 
 
-![[DesiringMachinesSocialMachinesDeterritorialization|700]]
+![[DesiringMachinesSocialMachinesDeterritorialization.excalidraw|700]]

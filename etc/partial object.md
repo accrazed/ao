@@ -1,0 +1,1 @@
+in reference to [[Partial Objects]], [[partial and nonspecific]] uses of machines

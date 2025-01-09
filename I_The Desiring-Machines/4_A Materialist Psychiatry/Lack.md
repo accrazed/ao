@@ -7,3 +7,5 @@ Describing desire in terms of [[Lack]] is a relatively easy common-sense to enga
 > AO28:0
 
 [[Social Production]] in this form now values itself above desiring-production, also spawning the false dichotomy of [[Individual Fantasy]] to [[Group Fantasy]]
+
+See [[Traditional Logic of Desire]] for more information on how lack relates to desire

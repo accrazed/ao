@@ -1,0 +1,3 @@
+[[Partial Objects]] contrast that of the modernist interpretation of categories and concepts, namely that of objects being able to be broken down into component parts that together form the gestaltic whole. Partial objects however, don't consolidate into a greater part, and instead the product of multiple machines is simply another part alongside the parts that created it.
+
+%% Talk about partial/nonspecific structures of desiring production %%

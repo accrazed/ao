@@ -5,3 +5,5 @@ See [[Desiring Machines#Formal Definition]] for a formal definition on the rules
 The connective "labor"/energy in this process is described as [[Libido]] 
 
 When the productive connections pass from machines to the [[Body Without Organs]], then another law is imposed on those connections - that of [[Disjunctive Synthesis]]. A part of the energy of [[Libido]] turns into [[Numen]]
+
+Connective synthesis in anoedipal form follows the rules of [[partial and nonspecific]] objects, as opposed to oedipalized [[global and specific]] objects. 

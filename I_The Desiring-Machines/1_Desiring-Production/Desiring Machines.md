@@ -1,3 +1,4 @@
+#machine
 ## Formal Definition
 [[Desiring Machines]] are a subset of [[Machine]]s: BINARY machines
 

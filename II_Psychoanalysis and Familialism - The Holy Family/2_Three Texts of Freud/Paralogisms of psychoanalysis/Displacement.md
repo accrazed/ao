@@ -1,0 +1,7 @@
+One of the [[Paralogisms of psychoanalysis]], a displacement.
+>The Law tells us: You will not marry your mother, and you will not kill your father. And we docile subjects say to ourselves: so *that's* what I wanted! Will it ever be suspected that the law discredits—and has an interest in discrediting and disgracing—the person it presumes to be guilty, the person the law wants to be guilty and wants to be made to feel guilty? One acts as if it were possible to conclude directly from psychic repression the nature of the repressed, and from the prohibition the nature of what is prohibited. There we have a typical paralogism—yet another, a fourth paralogism that we shall have to call *[[displacement]]*. For what really takes place is perfectly fictitious in the order of desire or of the "instincts," so as to persuade its subjects that they had the intention corresponding to this fiction. This is indeed the only way the law has of getting a grip on intention, of making the unconscious guilty.
+>In short, we are not witness here to a system of two terms where we could conclude from the formal prohibition what is really prohibited. Instead we have before us a system of three terms, where this conclusion becomes completely illegitimate. Distinctions must be made: 
+>- the repressing representation which performs the repression;
+>- the repressed representative, on which the repression actually comes to bear;
+>- the displaced represented, which gives a falsified apparent image that is meant to trap desire.
+>>AO114:2

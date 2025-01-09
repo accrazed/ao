@@ -12,5 +12,7 @@ This [[Celibate Machine]] forms an alliance between the [[Desiring Machines]] an
 - [[The Subject]] confuses itself with the [[Conjunctive Synthesis]] of consummation in the form of a wonderstruck "So *that's* what it was!" 
 
 Create, starting from zero, a series of states in the [[Celibate Machine]]; and the subject is born of each state in the series, is continually reborn of the following state that determines him at a given moment, consuming-consummating all these states that cause him to be born and reborn (the lived state coming first, in relation to the subject that lives it)
-![[AttractionsOppositions_1|500]]
+
+The state of zero intensity is [[autism]]
+![[AttractionsOppositions_1.excalidraw|500]]
 

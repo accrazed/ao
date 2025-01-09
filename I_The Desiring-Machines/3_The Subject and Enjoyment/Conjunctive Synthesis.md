@@ -8,4 +8,9 @@ One of several [[Syntheses]], and a process that is experienced throughout by th
 
 It's important to note this conjunctive synthesis, this connective tissue between attractions and oppositions can find itself in a seemingly mundane form when applied to the neurotic, learning over and over that *it* is just the father, the mother, the connective tissue of the oedipal triangle. These consumptions of intensities have little to do with Oedipus.
 
+## The Subject upon the [[Body Without Organs]]
+
+
+
+
 _related: [[Disjunctive Inscription]]_

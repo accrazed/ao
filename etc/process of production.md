@@ -6,7 +6,7 @@ There are several important meanings to understand for the word [[Process]] here
 
 That is, Production immediately determines [[consumption]] and [[recording]], and these in turn directly reproduce.
 
-![[-1_img/Excalidraw/Machine_1.md#^group=R1CmwNzLYoES0GOIBBlgt|700]]
+![[Machine_1.excalidraw#^group=R1CmwNzLYoES0GOIBBlgt|700]]
 
 ## 2. NATURE and MAN
 NATURE is no different from MAN. They are one and the same essential reality, the [[producer-product]]. MAN only fucks around with the machines and plugs shit into each other.

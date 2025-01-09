@@ -1,3 +1,5 @@
+#machines
+
 > Attraction and Repulsion persist in opposition, which can only be reconciled with a new machine that functions as a "return of the repressed": The [[Celibate Machine]].
 > [[Attractions and Oppositions]]
 

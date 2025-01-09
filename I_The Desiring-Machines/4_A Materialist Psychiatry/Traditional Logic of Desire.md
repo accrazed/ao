@@ -1,4 +1,4 @@
-The Platonic Logic of Desire demands a [[biunivocal]] choice between **production** and **acquisition** 
+The Platonic Logic of Desire demands a [[segregative and biunivocal]] choice between **production** and **acquisition** 
 ## Desire as Acquisition (come on dude)
 Here, desire becomes kind of gay and stupid:
 - To acquire "the thing" is to fulfill some end-state wherein you're doing good (being ideal)
